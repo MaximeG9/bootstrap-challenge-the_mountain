@@ -1,0 +1,94 @@
+body {
+    color: white;
+}
+
+header {
+    background-image: url(../images/bg_header.jpg);
+    height: 700px;
+    background-position: top;
+    background-size: cover;
+}
+
+.navbar-brand  img{
+    width: 30%;
+}
+
+.span2 {
+    font-weight: 600;
+    font-size: 60px;
+;
+}
+
+h1 {
+    font-family: 'Rokkitt', serif;
+    letter-spacing: 2px;
+}
+
+.headerp {
+    font-weight:lighter;
+}
+
+svg {
+    height: 40px;
+    width: 40px;
+    fill: rgb(85, 85, 85);
+}
+
+#features {
+    background-color: white;
+}
+
+#about {
+    background-image: url(../images/bg_nuage.jpg);
+    height: auto;
+    background-position: center;
+    background-size: cover;
+}
+
+h3 {
+    font-family: 'Rokkitt', serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: rgb(85, 85, 85);
+}
+
+.bg-right {
+    background-color: #74dcffbd;
+}
+
+h2 {
+    font-family: 'Rokkitt', serif;
+    font-size: 40px;
+}
+
+h4 {
+    font-family: 'Rokkitt', serif;
+}
+
+.box {
+    border: 1px solid white;
+}
+
+.number-box {
+    font-family: 'Rokkitt', serif;
+    font-size: 30px;
+}
+
+#history {
+    background-image: url(../images/bg_appareil_photo.jpg);
+    height: auto;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-title {
+    font-size: 25px;
+    font-style: italic;
+    font-weight:100;
+}
+
+.bg-p {
+    font-style: italic;
+    font-weight: lighter;
+}
+
