@@ -92,3 +92,20 @@ h4 {
     font-weight: lighter;
 }
 
+#photos {
+    background-color: #dddddd;
+}
+
+#contact {
+    background-image: url(../images/bg_newsletter.jpg);
+    background-position: top;
+    background-size: cover;
+}
+
+.opacity-bg {
+    background-color: #24323b69;
+}
+
+footer {
+    background-color: #24323b;
+}
